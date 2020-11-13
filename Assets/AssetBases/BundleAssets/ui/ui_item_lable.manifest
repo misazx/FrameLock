@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1441482841
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e9a5cf54ec3136a0d6421f302acf3d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 02bab92b52077e35d0972d289304a512
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23ba6fde8527b47eaa47e13a95c45ccb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBases/PrefabAssets/ui/ui_item_lable.prefab
+Dependencies: []

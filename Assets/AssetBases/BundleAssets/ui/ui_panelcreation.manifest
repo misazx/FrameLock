@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 2852840436
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e19000bd9aa3bf8a72d3364873e955a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bd6895a5560cf95bf2d5e08acbc42e0d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c79ebf86d7aac4c898ff8e3fc0fa0702, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 42e5ba593de164259beb0b1c88de7fb8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe3895bb425be40338592c77add0007e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b211e2e4ff5dc64986bb397e4ab0940, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBases/PrefabAssets/ui/ui_panelcreation.prefab
+Dependencies: []

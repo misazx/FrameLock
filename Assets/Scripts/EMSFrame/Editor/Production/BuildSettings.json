@@ -1,0 +1,11 @@
+{
+    "AndroidSdkRoot": "/Users/ohgame/Developer/Android/adt/nsdk",
+    "AndroidJdkRoot": "/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home",
+    "AndroidNdkRoot": "/Users/ohgame/Developer/NDK/android-ndk-r16b",
+    "AndroidNdkVersion": "R16b",
+
+    "AndroidKeystoreName": "/Users/ohgame/Developer/Android/keystore/app.keystore",
+    "AndroidKeystorePass": "llq1w2e3r4",
+    "AndroidKeyaliasName": "linlongyx",
+    "AndroidKeyaliasPass": "llq1w2e3r4"
+}

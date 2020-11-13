@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 651091240
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui/ui_item_lable
+      Dependencies: {}
+    Info_1:
+      Name: ui/ui_item_room
+      Dependencies: {}
+    Info_2:
+      Name: ui/ui_item_player
+      Dependencies: {}
+    Info_3:
+      Name: ui/ui_panelcreation
+      Dependencies: {}
+    Info_4:
+      Name: ui/ui_panelgame
+      Dependencies: {}
+    Info_5:
+      Name: ui/ui_panellan
+      Dependencies: {}
+    Info_6:
+      Name: ui/ui_panellogin
+      Dependencies: {}

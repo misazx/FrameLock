@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2196274949
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b46762a03c55f914b2cf460e49a1125
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1957abbe74e1304b21190d819b7af65e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc52ce82bd0dc4aa48c81d660eaec4ee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20bbe33364dce4a888976c2a910586c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 83403d9dc8cb24f67b650ec06f1e5c04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23ba6fde8527b47eaa47e13a95c45ccb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBases/PrefabAssets/ui/ui_item_player.prefab
+Dependencies: []
